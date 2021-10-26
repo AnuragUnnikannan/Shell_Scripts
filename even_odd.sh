@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Enter a integer:"
 read num
 if [ $((num%2)) -eq 0 ]
